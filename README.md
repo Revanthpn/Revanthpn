@@ -1,8 +1,5 @@
 ### Hi there, I'm [Revanth P N!](https://revanthpn.github.io/) 👋
 
-<a href="https://www.hackerrank.com/revanthpn2000">
-  <img align="left" alt="Revanth P N | HackerRank" width="20px" src="https://www.hackerrank.com/revanthpn2000" />
-</a>
 
 ## I'm a !
 
