@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm [Revanth P N!](https://revanthpn.github.io/) 👋
 
-<!--
-**Revanthpn/Revanthpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.hackerrank.com/revanthpn2000">
+  <img align="left" alt="Revanth P N | HackerRank" width="20px" src="https://www.hackerrank.com/revanthpn2000" />
+</a>
 
-Here are some ideas to get you started:
+## I'm a !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Everything 🤣
+- 🤔 I’m looking for job opportunities in a reputable organization to expand my knowledge and skills
+- ⚡ Fun fact: I love watching and playing cricket
+
+
+[website]: https://revanthpn.github.io/
+[hackerrank]: https://www.hackerrank.com/revanthpn2000
+[linkedin]: https://www.linkedin.com/in/revanth-p-n-07a679196/
