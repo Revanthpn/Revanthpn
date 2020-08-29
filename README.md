@@ -3,6 +3,7 @@
 [<img align="left" alt="REVANTH P N | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="REVANTH P N | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="REVANTH P N | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 ## I'm a Computer Science Engineering Student
 
